@@ -1,1 +1,0 @@
-# Bisection-method-in-python
